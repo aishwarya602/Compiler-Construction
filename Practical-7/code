@@ -1,5 +1,5 @@
 %{
-//Soumya bajirao 24070521146
+//Aishwarya Brahmankar 24070521212
 #include <stdio.h>
 int line_number = 0;
 %}
