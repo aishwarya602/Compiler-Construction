@@ -3,10 +3,10 @@
 ## Terminal Session
 
 ```bash
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gedit cal_1220.l
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gedit cal_1220.y
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ yacc -d cal_1220.y
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ lex cal_1220.l
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gedit cal_1212.l
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gedit cal_1212.y
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ yacc -d cal_1212.y
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ lex cal_1212.l
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gcc lex.yy.c y.tab.c -lfl
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ ./a.out
 Desk Calculator: Enter expressions

@@ -3,8 +3,8 @@
 ## Terminal Session
 
 ```bash
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim for_loop_1220.l
-lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ lex for_loop_1220.l
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ vim for_loop_1212.l
+lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ lex for_loop_1212.l
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ gcc lex.yy.c -o for_loop
 lab-03-17@lab-03-17-OptiPlex-3280-AIO:~$ ./for_loop
 Enter FOR loop:
